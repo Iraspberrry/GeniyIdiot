@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KZAssvQB3lAXNZ8cx6IURtUGqMI7ZqFJG1l3B+VngER+iB6hktSTuQcHPMbAqne+y5y5VCC+XURCJbVKDMNlcg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\korob\\Source\\Repos\\JosefDzeranov\\OnlineCourse10Stream\\GeniyIdiot\\GeniyIdiot.Common\\GeniyIdiot.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\korob\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
